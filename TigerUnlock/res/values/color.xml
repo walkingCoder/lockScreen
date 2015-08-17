@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 透明 -->
+    <color name="transparency">#00000000</color>
+    <color name="azure">#00A2E8</color>
+
+</resources>
